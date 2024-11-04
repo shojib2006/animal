@@ -1,0 +1,10 @@
+st-files-connection
+gcsfs
+streamlit
+numpy
+tensorflow
+Pillow
+requests
+pandas
+matplotlib
+validators
